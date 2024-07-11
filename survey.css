@@ -1,0 +1,26 @@
+.body{
+    padding-left: 40%;
+    margin-top:30px;
+    border: 2px solid white;
+    
+}
+.logo{
+    padding-left: 60px;
+    color: rgb(219, 144, 94);
+}
+p{
+    font-size: medium;
+    font-weight: bold;
+}
+.sub{
+    border: 1px solid  rgb(237, 183, 150);
+    padding-top:5px;
+    background-color: rgb(237, 183, 150);
+    margin: 10px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+form{
+    font-weight: bold;
+}
+
